@@ -5,11 +5,11 @@
 A compiled list of resources and projects related to the LEAPPs
 
 ## The LEAPPs
-- Website - https://www.leapps.org/
-- ALEAPP (Android) - https://github.com/abrignoni/ALEAPP
-- iLEAPP (iOS) - https://github.com/abrignoni/iLEAPP
-- RLEAPP (Returns) - https://github.com/abrignoni/RLEAPP
-- VLEAPP (Vehicles) - https://github.com/abrignoni/VLEAPP
+- 🔗 Website - https://www.leapps.org/
+- 🤖 ALEAPP (Android) - https://github.com/abrignoni/ALEAPP
+- 🍎 iLEAPP (iOS) - https://github.com/abrignoni/iLEAPP
+- 📁 RLEAPP (Returns) - https://github.com/abrignoni/RLEAPP
+- 🚗 VLEAPP (Vehicles) - https://github.com/abrignoni/VLEAPP
 
 ## Integrations
 ### ArcPoint Forensics ATRIO
