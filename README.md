@@ -1,4 +1,7 @@
 # Awesome-LEAPPs
+
+<p align="center"><img src=https://github.com/stark4n6/Awesome-LEAPPs/blob/main/art/LEAPPs_logo_with_icons.png alt="LEAPPs" height="300"></p>
+
 A compiled list of resources and projects related to the LEAPPs
 
 ## The LEAPPs
