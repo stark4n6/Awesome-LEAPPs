@@ -29,6 +29,9 @@ A compiled list of resources and projects related to the LEAPPs
 ### suiteDFIR
 - https://github.com/jacobecontreras/suiteDFIR
 
+### Other Useful Scripts
+- https://github.com/kalink0/useful_scripts/tree/master/windows/leapp-build
+
 ## Videos
 - 13Cubed - Introduction to iLEAPP - iOS Forensics Made Easy https://www.youtube.com/watch?v=fEYV5vVAdu4&t=32s
 - BlueMonkey 4n6 - Android and iOS backup analysis using *LEAPP tools and Linux based tools https://www.youtube.com/watch?v=mHIErISaOR0&t=606s
