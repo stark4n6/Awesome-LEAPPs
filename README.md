@@ -31,6 +31,9 @@ A compiled list of resources and projects related to the LEAPPs
 ### suiteDFIR
 - https://github.com/jacobecontreras/suiteDFIR
 
+### VESTIGEX
+- https://vestigex.app/
+
 ### Other Useful Scripts
 - https://github.com/kalink0/useful_scripts/tree/master/windows/leapp-build
 
